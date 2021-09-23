@@ -30,4 +30,14 @@ func main() {
 	
 	fmt.Println(sliceContainer)
 	fmt.Println(sliceContainerFloat)
+	
+	var floatArr12 []float32 = []float32{1,2 , 4, 5}
+	
+	fmt.Println(floatArr12)
+	floatArr12 = floatArr12[0:2]
+	fmt.Println(floatArr12)
+	
+	emptySlice := []int{}
+	fmt.Println(emptySlice, emptySlice == nil)
+	
 }

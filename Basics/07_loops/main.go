@@ -27,4 +27,10 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+	
+	b := [...]int {1, 2, 4, 6, 6}
+	c := [...]int {1:12, 5:56, 6}
+	
+	fmt.Println(b)
+	fmt.Println(c)
 }
