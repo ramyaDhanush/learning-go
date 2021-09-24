@@ -7,4 +7,4 @@ A repo to hold code while learning Go language
 4. Graph - implementation
 5. Tree - implementation
 6. make keyword and its working
-7. 
+7. Defining struct with methods
