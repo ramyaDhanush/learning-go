@@ -20,3 +20,9 @@ A repo to hold code while learning Go language
 17. Co-routines
 18. Concurrency
 19. Channels
+
+
+# Blogs
+
+1. Defer, Panic, and Recover - https://go.dev/blog/defer-panic-and-recover
+2. 

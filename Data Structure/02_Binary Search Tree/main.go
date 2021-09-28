@@ -97,7 +97,7 @@ func (b bst) searchByNode(root *node, value int) (*node, bool) {
 func (b bst) inOrderTraversal() {
 	b.inOrderTraversalByNode(b.root)
 	fmt.Println()
-}
+}  
 
 func (b bst) inOrderTraversalByNode(root *node) {
 	if root == nil {
