@@ -10,7 +10,7 @@ A repo to hold code while learning Go language
 7. Defining struct with methods
 8. JSON package
 9. text/template package
-10. Type assertions / Type Switch
+10. Type assertions / Type Switch / Generics
 11. Error Handling / Exception Handling (panic, recover)
 12. Creating & consuming packages
 13. Web Interface
@@ -19,10 +19,36 @@ A repo to hold code while learning Go language
 16. error default type & its functions
 17. Co-routines
 18. Concurrency
-19. Channels
+19. Channels / Channel Select
+20. Mutex/RWMutex
+21. Interface vs Struct
 
 
 # Blogs
 
 1. Defer, Panic, and Recover - https://go.dev/blog/defer-panic-and-recover
-2. 
+
+
+# Resources
+
+1. golang.org
+2. go.dev
+3. amazon.com
+4. golang dojo Youtube
+5. gophercise
+6. golang cafe
+
+# Focus on 
+1. User data
+2. Payment Processing
+3. APIs
+
+# Tech Stack
+
+1. Web Server Software - Apache, Nginx, Microsoft IIS(Internet Infomation Services)
+2. Web Frameworks 
+3. Object Relational Mapping 
+4. Database Software - MySQL, PostgreSQL, SQL Server
+5. VCS - Git, Subversion
+6. Cloud hosting platform - AWS, GCP, Heruko
+7. 
