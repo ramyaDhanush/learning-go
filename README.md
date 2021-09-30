@@ -35,8 +35,10 @@ A repo to hold code while learning Go language
 2. go.dev
 3. amazon.com
 4. golang dojo Youtube
-5. gophercise
+5. **gophercise**
 6. golang cafe
+7. https://golangcookbook.com/
+8. https://tour.golang.org
 
 # Focus on 
 1. User data
