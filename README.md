@@ -1,7 +1,11 @@
 # learning-go
 A repo to hold code while learning Go language
 
-1. How to accomaodate large values?
+1. How to accomaodate large values?  
+    Use "math/big" library   
+    [Blog](https://blog.devgenius.io/big-int-in-go-handling-large-numbers-is-easy-157cb272dd4f) |
+    [Video Explanation](https://youtu.be/MaUnR6bXGBE)
+    
 2. Set - Ordered & unordered set implementation
 3. Linked list - implementation
 4. Graph - implementation
@@ -9,7 +13,7 @@ A repo to hold code while learning Go language
 6. make keyword and its working
 7. Defining struct with methods
 8. JSON package
-9. text/template package
+9.  text/template package
 10. Type assertions / Type Switch / Generics
 11. Error Handling / Exception Handling (panic, recover)
 12. Creating & consuming packages
