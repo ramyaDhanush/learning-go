@@ -1,3 +1,3 @@
-module github.com/ramyaDhanush/learning-go/gophercises/02_URL_Shortener
+module github.com/ramyaDhanush/learning-go/gophercises/urlshort
 
 go 1.17
