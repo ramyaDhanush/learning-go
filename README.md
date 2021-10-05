@@ -26,6 +26,13 @@ A repo to hold code while learning Go language
 19. Channels / Channel Select
 20. Mutex/RWMutex
 21. Interface vs Struct
+22. [Interfaces are implemented implicitly](https://tour.golang.org/methods/10)
+23. Built-in Stringer & Error interfaces
+24. [Iota](https://medium.com/swlh/iota-create-effective-constants-in-golang-b399f94aac31)
+25. Parsing path, Tab based auto-fill
+26. Regex
+27. Use of `` backticks in golang
+28. [io.Reader](https://pkg.go.dev/io#Reader)
 
 
 # Blogs
@@ -57,4 +64,3 @@ A repo to hold code while learning Go language
 4. Database Software - MySQL, PostgreSQL, SQL Server
 5. VCS - Git, Subversion
 6. Cloud hosting platform - AWS, GCP, Heruko
-7. 
