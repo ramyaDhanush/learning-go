@@ -51,16 +51,3 @@ A repo to hold code while learning Go language
 7. https://golangcookbook.com/
 8. https://tour.golang.org
 
-# Focus on 
-1. User data
-2. Payment Processing
-3. APIs
-
-# Tech Stack
-
-1. Web Server Software - Apache, Nginx, Microsoft IIS(Internet Infomation Services)
-2. Web Frameworks 
-3. Object Relational Mapping 
-4. Database Software - MySQL, PostgreSQL, SQL Server
-5. VCS - Git, Subversion
-6. Cloud hosting platform - AWS, GCP, Heruko
