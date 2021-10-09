@@ -38,7 +38,9 @@ A repo to hold code while learning Go language
 # Blogs
 
 1. Defer, Panic, and Recover - https://go.dev/blog/defer-panic-and-recover
-
+2. Polymorphism in Go - https://golangbot.com/polymorphism/
+3. Packages in Go - https://youtu.be/sf7f4QGkwfE
+   
 
 # Resources
 
@@ -55,3 +57,15 @@ A repo to hold code while learning Go language
 
 https://idstar.co.id/en/skill-back-end-developer/
 
+**To look into**
+
+Pointers - Unsafe
+Cgolang 
+modules
+external packages
+array sorting
+ordered map 
+producer, consumer - multithreading
+Accessing multithreads
+String to long & vice-versa, type conversions
+Plugin consumption

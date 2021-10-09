@@ -41,4 +41,10 @@ func main() {
 	for _, i := range final {
 		fmt.Printf("{ \"display\" : \"%s\", \"value\" : %d },\n", i.display, i.value)
 	}
+	
+	var f [100]int
+	u := "dec"
+	for idx, _ := range f {
+		fmt.Printf("{ \"display\" : \"%d %s\", \"value\" : %d },\n", idx, u, idx)
+	}
 }
