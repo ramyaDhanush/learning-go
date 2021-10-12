@@ -33,6 +33,7 @@ A repo to hold code while learning Go language
 26. Regex
 27. Use of `` backticks in golang
 28. [io.Reader](https://pkg.go.dev/io#Reader)
+29. time, rand, context, fmt, math, log, encoding/json, os, bufio, strconv
 
 
 # Blogs

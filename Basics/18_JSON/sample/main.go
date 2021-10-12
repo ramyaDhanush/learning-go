@@ -33,6 +33,8 @@ func main() {
 	}
 	
 	fmt.Println(sTo)
-	fmt.Println(sTo)
-	fmt.Printf("%T",sTo)
+	fmt.Println("Before ", john)
+	
+	json.Unmarshal(sTo, &john)
+	fmt.Println("After ", john)
 }

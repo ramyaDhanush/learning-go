@@ -44,7 +44,7 @@ func main() {
 	
 	var f [100]int
 	u := "dec"
-	for idx, _ := range f {
+	for idx := range f {
 		fmt.Printf("{ \"display\" : \"%d %s\", \"value\" : %d },\n", idx, u, idx)
 	}
 }
